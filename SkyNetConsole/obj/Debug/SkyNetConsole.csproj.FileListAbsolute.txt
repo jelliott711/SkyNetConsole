@@ -1,0 +1,7 @@
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\obj\Debug\SkyNetConsole.csprojResolveAssemblyReference.cache
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\obj\Debug\SkyNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\bin\Debug\SkyNetConsole.exe.config
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\bin\Debug\SkyNetConsole.exe
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\bin\Debug\SkyNetConsole.pdb
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\obj\Debug\SkyNetConsole.exe
+C:\Users\jack\source\repos\SkyNetConsole\SkyNetConsole\obj\Debug\SkyNetConsole.pdb
